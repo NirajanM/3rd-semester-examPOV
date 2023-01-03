@@ -2,7 +2,12 @@ https://www.tutorialspoint.com/computer_graphics/  - best with serially topics
 
 yt- 5 minutes engineering 
 
+<<<<<<< HEAD
 (BSA, circle, ellipse midpoint algo, 2d and 3d trasformation ali chita bujdo lagena aru thik xa)
 
 solid modling:
 https://youtu.be/BtJ4wrEMqTA
+=======
+exam revision:
+https://rajkumarrawal.com.np/Computer-Graphics-CG-Note-for-Final-exam-by-Tech-Parivartan-95eb8e2062994f0cba189ad554679132
+>>>>>>> 3fe98d7b268060859ad5b8b61772fb4d140812af
